@@ -21,7 +21,7 @@ I'm a founder of synicism and co-founder of [blossom.](https://github.com/blosso
     <summary><strong>Contact Information:</strong></summary>
     <ul>
         <a href="https://iloveemogirls.com">🌎</a> - jay@iloveemogirls.com<br/>
-        <a href="https://nitter.actionsack.com/qdxHimself">🐦</a> - <strong><i>Unofficial Nitter Instance</i></strong><br/>
-        <a href="https://discord.iloveemogirls.com">💬</a> - qdx#0001 on Discord<br/>
+        <a href="https://nitter.actionsack.com/revisitable">🐦</a> - <strong><i>Unofficial Nitter Instance</i></strong><br/>
+        <a href="https://discord.iloveemogirls.com">💬</a> - revisitable#0001 on Discord<br/>
     </ul>
 </details>
