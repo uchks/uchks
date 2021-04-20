@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/revisitable/revisitable/master/assets/bg.png"> 
 
-### 👋 Hi there! I'm Jason, notably known as [qdx](https://iloveemogirls.com)<br/>
-17, designer and student from the U.S. in the works of ***learning*** development. ***(he/him)***<br/>
-I'm a founder of synicism and co-founder of [blossom.](https://github.com/blossomcommunity)<br/>
+### Hey, I'm Jason 👋<br/>
+I'm a 17 year old designer, student, and amateur developer.<br/>
+I'm a founder of [synicism](https://synicismclothing.com) and co-founder of [blossom.](https://github.com/blossomcommunity)<br/>
 
 <a href="https://spotify-readme-sigma-wheat.vercel.app/now-playing?open"><img src="https://spotify-readme-sigma-wheat.vercel.app/now-playing" width="540" height="64"></a>
 
@@ -18,7 +18,7 @@ I'm a founder of synicism and co-founder of [blossom.](https://github.com/blosso
 </details>
 
 <details open>
-    <summary><strong>Contact Information:</strong></summary>
+    <summary><strong>📫 Contact Me:</strong></summary>
     <ul>
         <a href="https://iloveemogirls.com">🌎</a> - jay@iloveemogirls.com<br/>
         <a href="https://nitter.actionsack.com/revisitable">🐦</a> - <strong><i>Unofficial Nitter Instance</i></strong><br/>
