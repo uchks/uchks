@@ -25,3 +25,5 @@ I'm a founder of [synicism](https://synicismclothing.com) and co-founder of [blo
         <a href="https://discord.iloveemogirls.com">💬</a> - revisitable#0001 on Discord<br/>
     </ul>
 </details>
+
+###### thanks for coming to my profile :)
