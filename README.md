@@ -6,7 +6,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/326237293612367873" align="left" />
 </a>
 
-17 years old, designer   <br/>
+17 year old, designer   <br/>
 founder @ [blossom.](https://blossom.community)<br/>
 
 <details open>
