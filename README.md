@@ -12,9 +12,9 @@ founder @ [blossom.](https://blossom.community)<br/>
 <details open>
     <summary><strong>Projects 🛠:</strong></summary>
     <ul>
+        <a href="https://github.com/revisitable/win11Patcher">win11Patcher.</a> - patching TPM 2.0 and Secure Boot req. for Windows 11 via batch<br/>
         <a href="https://github.com/revisitable/repo.me">repo.me</a> - a modern, iOS-focused, community built, apt repository template<br/>
-        <a href="https://github.com/revisitable/modportingpack">modportingpack</a> - a minecraft mod porting pack that pulls resources via wget<br/>
-        <a href="https://blossom.community">blossom.</a> - a community to connect, learn, & create with like-minded content creators<br/>
+        <a href="https://github.com/revisitable/modportingpack">modportingpack</a> - a minecraft mod porting pack<br/>
     </ul>
 </details>
 
