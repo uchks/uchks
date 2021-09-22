@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/revisitable/revisitable/master/assets/bg.png"> 
+<img src="https://raw.githubusercontent.com/und6ne/und6ne/master/assets/bg.png"> 
 
 ### Hey, I'm Jason 👋<br/>
 
@@ -11,9 +11,9 @@
 <details open>
     <summary><strong>Projects 🛠:</strong></summary>
     <ul>
-        <a href="https://github.com/revisitable/win11Patcher">win11Patcher.</a> - patching TPM 2.0 and Secure Boot req. for Windows 11 via batch<br/>
-        <a href="https://github.com/revisitable/repo.me">repo.me</a> - a modern, iOS-focused, community built, apt repository template<br/>
-        <a href="https://github.com/revisitable/modportingpack">modportingpack</a> - a minecraft mod porting pack<br/>
+        <a href="https://github.com/und6ne/win11Patcher">win11Patcher.</a> - patching TPM 2.0 and Secure Boot req. for Windows 11 via batch<br/>
+        <a href="https://github.com/und6ne/repo.me">repo.me</a> - a modern, iOS-focused, community built, apt repository template<br/>
+        <a href="https://github.com/und6ne/modportingpack">modportingpack</a> - a minecraft mod porting pack<br/>
     </ul>
 </details>
 
