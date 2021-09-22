@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/und6ne/und6ne/master/assets/bg.png"> 
-
 ### Hey, I'm Jason 👋<br/>
 
 <a href="https://discord.com/users/326237293612367873">
   <img src="https://lanyard-profile-readme.vercel.app/api/326237293612367873?bg=0d1117" align="left" />
 </a>
 
-18 year old, designer   <br/>
+18 year old, designer + writer   <br/>
 
 <details open>
     <summary><strong>Projects 🛠:</strong></summary>
