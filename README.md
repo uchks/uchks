@@ -7,7 +7,7 @@
 ````zsh
 > help --info
 > 18 years old
-> Designer + Write
+> Designer + Writer
 > Stolen from Brandon Saldan, but with zsh
 ````
 
