@@ -14,6 +14,6 @@
 ````zsh
 > help --contact
 > discord: device#0001
-> twitter: usersyns
+> twitter: localdevice
 > mailto: hi@jasons.faith
 ````
