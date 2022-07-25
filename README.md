@@ -15,5 +15,6 @@
 > help --contact
 > discord: device#0001
 > twitter: localdevice
-> mailto: hi@jasons.faith
+> mailto: git@jasons.faith for git relations
+> mailto: hi@jasons.faith for business relations
 ````
