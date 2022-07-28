@@ -6,7 +6,7 @@
 
 ````zsh
 > help --info
-> 18 years old
+> 19 years old
 > Artist, aspiring developer.
 > Stolen from Brandon Saldan, but with zsh
 ````
