@@ -7,14 +7,13 @@
 ````zsh
 > help --info
 > 19 years old
-> Artist, aspiring developer.
-> Stolen from Brandon Saldan, but with zsh
+> primarily an artist. i do side projects.
 ````
 
 ````zsh
 > help --contact
-> discord: device#0001
-> twitter: localdevice
+> discord: sukarodo#0001
+> mastodon: suka@mas.to
 > mailto: git@jasons.faith for git relations
 > mailto: hi@jasons.faith for business relations
 ````
