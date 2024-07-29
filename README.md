@@ -1,6 +1,6 @@
 ```zsh
 > help --info
-> age: 20 years old
+> age: 21 years young
 > pronouns: he/him
 ````
 
