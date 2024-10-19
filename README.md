@@ -7,7 +7,7 @@
 ````zsh
 > help --contact
 > discord: uchks
-> mailto: jason@waifu.club
+> mailto: jason@air.rip
 ````
 ---
 
